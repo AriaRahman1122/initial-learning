@@ -2,5 +2,5 @@ Initial Learning
 - Learn 1 - about version control system
 - Learn 2 - about frontend use next js
 - Learn 3 - about backend use nest js
-- Learn 4 - about payment gateway use xendit
 - Learn 5 - about api
+- Learn 6 - about ux pilot
