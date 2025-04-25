@@ -3,3 +3,4 @@ Rencana Konten
  - Buat dulu ui ux nya
  - buat backend nya juga
 - Bisnis baru
+- Learn API
