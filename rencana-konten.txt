@@ -3,6 +3,7 @@ Rencana Konten
  - Buat dulu ui ux nya
  - buat backend nya juga
  - buat frontend pake next js
+ - belajar react dulu
 - Bisnis baru
 - Learn API
  - Use Postman
