@@ -1,3 +1,5 @@
 Rencana Konten
 - Membuat web terkait Quiz
+ - Buat dulu ui ux nya
+ - buat backend nya juga
 - Bisnis baru
