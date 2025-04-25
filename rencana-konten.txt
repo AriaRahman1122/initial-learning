@@ -2,7 +2,9 @@ Rencana Konten
 - Membuat web terkait Quiz
  - Buat dulu ui ux nya
  - buat backend nya juga
- - belajar java
+ - buat frontend pake next js
  - belajar react dulu
+- Bisnis baru
 - Learn API
- - use Postman
+ - Use Postman
+- Learn payment gateway
