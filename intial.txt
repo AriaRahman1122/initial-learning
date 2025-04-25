@@ -1,0 +1,4 @@
+Initial Learning
+- Learn 1 - about version control system
+- Learn 2 - about frontend use next js
+- Learn 3 - about backend use nest js
