@@ -12,4 +12,6 @@ tambahan buat bikin conflict
 
 aria pacaran sama eliya
 
+mau coba update untuk stash dulu
+
 update from github web for test the stash
